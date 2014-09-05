@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://www.wallpapersmaker.com/open-from-gallery.php?p=b9da9161e4a890afc8c42b9f8f35afd7-1409882997.jpg&i=14982') repeat left top;
+  background: #202024 url('https://lh3.googleusercontent.com/-BQ19v-vly04/VAkcS3MyICI/AAAAAAAAAZM/o7SUmEehRK0/w1134-h709-no/b9da9161e4a890afc8c42b9f8f35afd7-1409882997.jpg') repeat left top;
   left: -273px;  
   height: 100%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://www.wallpapersmaker.com/open-from-gallery.php?p=b9da9161e4a890afc8c42b9f8f35afd7-1409882997.jpg&i=14982'); 
+  background-image: url('https://lh3.googleusercontent.com/-BQ19v-vly04/VAkcS3MyICI/AAAAAAAAAZM/o7SUmEehRK0/w1134-h709-no/b9da9161e4a890afc8c42b9f8f35afd7-1409882997.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
