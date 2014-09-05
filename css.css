@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('https://lh3.googleusercontent.com/-BQ19v-vly04/VAkcS3MyICI/AAAAAAAAAZM/o7SUmEehRK0/w1134-h709-no/b9da9161e4a890afc8c42b9f8f35afd7-1409882997.jpg') repeat left top;
+  background: #202024 url('https://lh4.googleusercontent.com/-R9JELK5C4fM/VAkdl5pbG4I/AAAAAAAAAaQ/sD7Hf1mHofE/w1134-h709-no/photo.jpg') repeat left top;
   left: -273px;  
   height: 100%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('https://lh3.googleusercontent.com/-BQ19v-vly04/VAkcS3MyICI/AAAAAAAAAZM/o7SUmEehRK0/w1134-h709-no/b9da9161e4a890afc8c42b9f8f35afd7-1409882997.jpg'); 
+  background-image: url('https://lh4.googleusercontent.com/-R9JELK5C4fM/VAkdl5pbG4I/AAAAAAAAAaQ/sD7Hf1mHofE/w1134-h709-no/photo.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
