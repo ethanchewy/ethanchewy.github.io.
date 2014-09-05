@@ -72,10 +72,10 @@ body {
 }
 
 /*About section*/
-.about {
-  color: #FFFAF0;
-  font-family: 'Open Sans', sans-seriff;
-  font-size:; 16px;
-  height: 100%;
+.about-open {
+  cursor: pointer;
+  padding-top: 20px;
+  padding-left: 10px;
+  
   
 }
