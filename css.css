@@ -70,3 +70,12 @@ body {
 .icon-menu i {
   margin-right: 5px;
 }
+
+#About section
+.about {
+  color: #FFFAF0;
+  font-family: 'Open Sans', sans-seriff;
+  font-size:; 16px;
+  height: 100%;
+  
+}
