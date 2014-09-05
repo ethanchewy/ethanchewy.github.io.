@@ -9,7 +9,7 @@ body {
 /* Initial menu */
 .menu {
   background: #202024 url('https://lh4.googleusercontent.com/-R9JELK5C4fM/VAkdl5pbG4I/AAAAAAAAAaQ/sD7Hf1mHofE/w1134-h709-no/photo.jpg') repeat left top;
-  left: -273px;  
+  left: -285px;  
   height: 100%;
   position: fixed;
   width: 285px;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('https://lh4.googleusercontent.com/-R9JELK5C4fM/VAkdl5pbG4I/AAAAAAAAAaQ/sD7Hf1mHofE/w1134-h709-no/photo.jpg'); 
+  background-image: url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/bg.png'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
