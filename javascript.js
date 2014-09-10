@@ -33,7 +33,7 @@ var main = function() {
     }, 200);
 */
     $('.photo').animate({
-      left: "500px"
+      left: "0px"
     }, 200);
   });
 };
