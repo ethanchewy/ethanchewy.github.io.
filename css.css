@@ -17,9 +17,9 @@ body {
 
 /* Basic styling */
 .photo {
-  background-image: url('..images/photo.jpg');
+  background: url('..images/photo.jpg');
   left: -1000px;
-  position: fixed;
+
   
 }
 .jumbotron {
