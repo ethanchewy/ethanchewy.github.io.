@@ -75,6 +75,7 @@ body {
 
 /*About section*/
 li.pictures{
+  text-transform: uppercase;
   color: #fff;
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
@@ -83,7 +84,7 @@ li.pictures{
   padding-left: 25px;
   padding-top: 25px;
   text-decoration: none;
-  text-transform: uppercase;
+
 }
   
   
