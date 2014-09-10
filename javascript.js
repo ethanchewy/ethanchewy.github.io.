@@ -22,7 +22,7 @@ var main = function() {
   });
   
   /*Opens about section*/
-  $('.pictures').click(function() {
+  $('li.pictures').click(function() {
     $('.menu').animate({
       left: "-285px"
       
