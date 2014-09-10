@@ -17,7 +17,7 @@ body {
 
 /* Basic styling */
 .photo {
-  background: url('..images/photo.jpg');
+  background: #202024 url('..images/photo.jpg');
   left: -1000px;
   position: fixed;
   
