@@ -34,7 +34,7 @@ var main = function() {
 
     $('.photo').animate({
       left: "0px"
-    },);
+    }, 200);
   });
 };
 $(document).ready(main);
