@@ -18,7 +18,9 @@ body {
 /* Basic styling */
 .photo {
   background: url('..images/photo.jpg');
-  left: 0px;
+  left: -2000px;
+  height: 100%;
+  width: 1024px;
   position: fixed;
   
 }
