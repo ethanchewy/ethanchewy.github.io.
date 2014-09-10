@@ -24,13 +24,17 @@ var main = function() {
   /*Opens about section*/
   $('.pictures').click(function() {
     $('.menu').animate({
-      left: "-285px"
+      left: "-1000px"
       
     }, 200);
     
     $('body').animate({
+      left: "1000px"
+    }, 200);
+
+    $('.photo').animate({
       left: "0px"
-    }, 200)
+    }, 200);
   });
 };
 $(document).ready(main);
