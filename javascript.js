@@ -23,7 +23,7 @@ var main = function() {
   
   /*Opens about section*/
   $('.pictures').click(function() {
-    $('.menu').animate({
+   /* $('.menu').animate({
       left: "-2000px"
       
     }, 200);
@@ -31,7 +31,7 @@ var main = function() {
     $('body').animate({
       left: "2000px"
     }, 200);
-
+*/
     $('.photo').animate({
       left: "500px"
     }, 200);
