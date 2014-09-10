@@ -17,10 +17,8 @@ body {
 
 /* Basic styling */
 .photo {
-  background: url('..images/photo.jpg');
+  background: url('https://lh3.googleusercontent.com/-KRCmToL81KY/VA-9zkYMicI/AAAAAAAAAa8/E6F0wdzfTxM/w945-h709-no/Photosghub.jpg');
   left: -2000px;
-  height: 100%;
-  width: 1024px;
   position: fixed;
   
 }
