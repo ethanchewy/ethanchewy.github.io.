@@ -19,7 +19,7 @@ body {
 .photo {
   background: url('..images/photo.jpg');
   left: -1000px;
-
+  position: fixed;
   
 }
 .jumbotron {
