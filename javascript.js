@@ -29,7 +29,7 @@ var main = function() {
     }, 200);
     
     $('body').animate({
-      left: "-500px"
+      left: "2000px"
     }, 200);
 
     $('.photo').animate({
