@@ -23,7 +23,7 @@ var main = function() {
     $('.photo').animate({
       left: "-2000px"
       
-    },200);
+    }, 200);
   });
   
   /*Opens about section*/
