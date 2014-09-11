@@ -39,7 +39,7 @@ var main = function() {
 
     $('.photo').animate({
       left: "512px"
-    },);
+    });
     
   });
 };
