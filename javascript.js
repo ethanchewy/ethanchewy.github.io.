@@ -24,12 +24,12 @@ var main = function() {
   /*Opens about section*/
   $('.pictures').click(function() {
    $('.menu').animate({
-      left: "-2000px"
+      left: "0px"
       
     }, 200);
     
     $('body').animate({
-      left: "2000px"
+      left: "-500px"
     }, 200);
 
     $('.photo').animate({
