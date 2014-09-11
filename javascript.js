@@ -49,7 +49,7 @@ var main = function() {
   
   $('.linkedin').click(function() {
     window-location.href ="https://www.linkedin.com/pub/ethan-chiu/a2/718/846";
-  })
+  });
   
   /* Youtube */
 
