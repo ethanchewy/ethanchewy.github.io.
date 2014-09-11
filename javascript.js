@@ -19,6 +19,11 @@ var main = function() {
     $('body').animate({
       left: "0px"
     }, 200);
+    
+    $('.photo').animate({
+      left: "-2000px"
+      
+    },200);
   });
   
   /*Opens about section*/
