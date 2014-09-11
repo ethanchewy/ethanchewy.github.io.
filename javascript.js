@@ -42,5 +42,9 @@ var main = function() {
     });
     
   });
+  
+  $('.facebook').click(function() {
+    window.location.href="http://www.facebook.com/ethan.chiu.1420"; 
+  }
 };
 $(document).ready(main);
