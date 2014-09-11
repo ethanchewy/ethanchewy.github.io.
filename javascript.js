@@ -51,5 +51,13 @@ var main = function() {
     window-location.href ="https://www.linkedin.com/pub/ethan-chiu/a2/718/846";
   })
   
+  /* Youtube */
+  .js-video embed, .js-video iframe, .js-video object, .js-video video {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
 };
 $(document).ready(main);
