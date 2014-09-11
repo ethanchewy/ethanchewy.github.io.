@@ -84,7 +84,13 @@ body {
   padding-left: 10px;
   padding-top: 10px;
   position: absolute;
+  float: right;
 }
   
-  
-
+.linkedin {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+  position: absolute;
+  float: left;
+}
