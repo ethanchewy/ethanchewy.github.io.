@@ -83,7 +83,7 @@ body {
   cursor: pointer;
   padding-left: 10px;
   padding-top: 10px;
-  position: absolute;
+
   float: right;
 }
 
@@ -92,7 +92,7 @@ body {
   cursor: pointer;
   padding-left: 10px;
   padding-top: 10px;
-  position: absolute;
+
   float: left;
 }
 
