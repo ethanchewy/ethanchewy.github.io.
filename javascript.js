@@ -45,11 +45,11 @@ var main = function() {
   
   $('.facebook').click(function() {
     window.location.href="http://www.facebook.com/ethan.chiu.1420"; 
-  };
+  });
   
   $('.linkedin').click(function() {
-    window.location.href ="https://www.linkedin.com/pub/ethan-chiu/a2/718/846";
-  };
+    window.location.href ="http://www.linkedin.com/pub/ethan-chiu/a2/718/846";
+  });
   
   /* Youtube */
 
