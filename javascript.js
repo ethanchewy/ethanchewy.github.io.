@@ -24,6 +24,11 @@ var main = function() {
       left: "-2000px"
       
     }, 200);
+    
+    $('.video').animate({
+      left: "-2000px"
+    }, 200);
+    
   });
   
   /*Opens about section*/
@@ -38,8 +43,12 @@ var main = function() {
     }, 200);
 
     $('.photo').animate({
-      left: "512px"
+      left: "270px"
     });
+    
+    $('.video').animate({
+      left: "-2000px"
+    }, 200);
     
   });
   
@@ -51,7 +60,28 @@ var main = function() {
     window.location.href ="http://www.linkedin.com/pub/ethan-chiu/a2/718/846";
   });
   
-  /* Youtube */
+  $('.vid').click(function() {
+    $('.menu').animate({
+      left: "0px"
+      
+    }, 200);
+    
+    $('body').animate({
+      left: "2000px"
+    }, 200);
+
+    $('.video').animate({
+      left: "270px"
+    });
+    
+    $('.photo').animate({
+      left: "-2000px"
+      
+    }, 200);
+    
+  });
+  
+
 
 };
 $(document).ready(main);
