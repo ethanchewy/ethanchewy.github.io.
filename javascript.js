@@ -28,6 +28,7 @@ var main = function() {
     $('.video').animate({
       left: "-2000px"
     }, 200);
+  
     
   });
   
@@ -92,6 +93,13 @@ var main = function() {
         .after("<span class='spacer'>");
 
   });
+  
+  $('about.html').click(function() {
+    $('.menu').animate({
+      left: "0px"
+      
+    }, 200);
+  }
 
 
 };
