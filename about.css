@@ -1,0 +1,15 @@
+body {
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.jumbotron {
+  background-image: url('http://4hdwallpapers.com/wp-content/uploads/2013/07/Space-background.jpg'); 
+  height: 100%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
