@@ -1,0 +1,52 @@
+
+body {
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.jumbotron {
+  background-image: url('http://lh6.googleusercontent.com/-zOYofSOxF2Y/VBDr5qVao7I/AAAAAAAAAbs/DyFPeHXrH2U/w945-h709-no/photo.jpg'); 
+  height: 100%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   font-style: italic;
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+h2 span.spacer {
+   padding:0 5px;
+}
+
+/* old stuff */
+
+
+/* testing */
+.icon-close2 {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+}
