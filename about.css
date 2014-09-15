@@ -135,3 +135,10 @@ h2 span.spacer {
   top: 0px;
  
 }
+
+/* testing */
+.icon-close2 {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+}
