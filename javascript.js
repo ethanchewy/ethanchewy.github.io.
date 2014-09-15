@@ -94,12 +94,12 @@ var main = function() {
 
   });
   
-  $('about.html').click(function() {
-    $('.menu').animate({
+  /*$('icon-close2').click(function() {
+    $('index.html').animate({
       left: "0px"
       
     }, 200);
-  });
+  }); */
 
 
 };
