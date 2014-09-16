@@ -7,7 +7,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url('http://lh6.googleusercontent.com/-zOYofSOxF2Y/VBDr5qVao7I/AAAAAAAAAbs/DyFPeHXrH2U/w945-h709-no/photo.jpg'); 
+  background-image: url('../images/photo.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
