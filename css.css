@@ -101,6 +101,15 @@ body {
 
 }
 
+.instagram {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  float: left;
+  bottom: 0;
+}
+
 .video {
   left: -200000px;  
   height: 100%;
