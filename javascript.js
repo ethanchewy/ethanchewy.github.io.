@@ -61,7 +61,7 @@ var main = function() {
     window.location.href ="http://www.linkedin.com/pub/ethan-chiu/a2/718/846";
   });
   
-  $('.instagram').click(functoin() {
+  $('.instagram').click(function() {
     windows.location.href = "http://instagram.com/ethanclikesrice?";
   });
   
