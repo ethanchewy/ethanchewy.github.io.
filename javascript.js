@@ -62,7 +62,7 @@ var main = function() {
   });
   
   $('.instagram').click(function() {
-    windows.location.href = "http://instagram.com/ethanclikesrice?";
+    window.location.href = "http://instagram.com/ethanclikesrice?";
   });
   
   $('.vid').click(function() {
