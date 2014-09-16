@@ -24,7 +24,7 @@ body {
   top: 0px;
 }
 .jumbotron {
-  background: url('../images/wallpaper.jpg'); 
+  background: url('/images/wallpaper.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
