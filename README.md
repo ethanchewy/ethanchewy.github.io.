@@ -5,4 +5,4 @@ Experimenting around a lot :P
 
 So, I would greatly appreciate any input 
 
-Made with love by Ethan Chiu <3
+Made with love by Ethan Chiu 
