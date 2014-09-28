@@ -1,8 +1,8 @@
 ![alt tag](https://lh4.googleusercontent.com/-R9JELK5C4fM/VAkdl5pbG4I/AAAAAAAAAaQ/sD7Hf1mHofE/w1134-h709-no/photo.jpg)
-First GitHub repo
+First GitHub repo!
 
-Experimenting around a lot
+Experimenting around a lot :P
 
-I appreciate any input 
+So, I would greatly appreciate any input 
 
-Made with love by Ethan Chiu
+Made with love by Ethan Chiu <3
