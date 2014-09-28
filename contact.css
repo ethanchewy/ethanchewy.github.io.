@@ -1,1 +1,11 @@
 <style>
+#HCB_comment_box #hcb_form_content,
+#HCB_comment_box #hcb_form_email, 
+#HCB_comment_box #hcb_form_name, 
+#HCB_comment_box #hcb_form_website {
+  background-color:#ffd;
+}
+#HCB_comment_box textarea {
+  height:400px;
+}
+</style>
