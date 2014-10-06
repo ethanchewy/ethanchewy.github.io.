@@ -1,5 +1,7 @@
 ![alt tag](https://lh4.googleusercontent.com/-R9JELK5C4fM/VAkdl5pbG4I/AAAAAAAAAaQ/sD7Hf1mHofE/w1134-h709-no/photo.jpg)
 First GitHub repo!
+**How did I make it?**
+Used pure html, css, and javascript.
 
 Experimenting around a lot :P
 
@@ -7,6 +9,7 @@ So, I would greatly appreciate any input
 
 Made with love by Ethan Chiu 
 
+**License:**
 The MIT License (MIT)
 
 Copyright (c) [year] [fullname]
