@@ -119,14 +119,16 @@ p {
   bottom: 0;
   position: absolute;
   color: #fff;
-  cursor: pointer;
-  font-family: 'Open Sans', sans-serif;
+
 }
 a {
-  color: #776e65;
+  color: #35193E;
   font-weight: bold;
   text-decoration: underline;
-  cursor: pointer; }
+  cursor: pointer; 
+  
+}
+  
 .video {
   left: -200000px;  
   height: 100%;
