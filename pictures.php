@@ -32,7 +32,7 @@
 		}
 
 		// Pulls and parses data.
-		$result = fetchData("https://api.instagram.com/v1/users/{$userid}/media/recent/?access_token={$accessToken}");
+		$result = fetchData("https://api.instagram.com/v1/users/{$5593cd4fd7a44f0fbdc280640297eb7a}/media/recent/?access_token={$91cc187a20534bc2bf2ba3375a649bdb}");
 		$result = json_decode($result);
 	?>
 
