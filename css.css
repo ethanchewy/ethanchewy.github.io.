@@ -110,6 +110,18 @@ body {
   bottom: 0;
 }
 
+.me {
+    position: relative;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.me span {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+}
+
 .video {
   left: -200000px;  
   height: 100%;
