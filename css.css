@@ -122,7 +122,11 @@ p {
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
 }
-
+a {
+  color: #776e65;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer; }
 .video {
   left: -200000px;  
   height: 100%;
