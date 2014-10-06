@@ -16,13 +16,7 @@ p {
   color: #fff;
 
 }
-a {
-  color: #35193E;
-  font-weight: bold;
-  text-decoration: underline;
-  cursor: pointer; 
-  
-}
+
 
 /* Initial menu */
 .menu {
