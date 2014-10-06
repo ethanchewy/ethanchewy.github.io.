@@ -6,6 +6,24 @@ body {
   position: relative;
 }
 
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: 1.65; 
+  float: left;
+  bottom: 0;
+  position: absolute;
+  color: #fff;
+
+}
+a {
+  color: #35193E;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer; 
+  
+}
+
 /* Initial menu */
 .menu {
   background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
@@ -111,23 +129,7 @@ body {
  
 }
 
-p {
-  margin-top: 0;
-  margin-bottom: 10px;
-  line-height: 1.65; 
-  float: left;
-  bottom: 0;
-  position: absolute;
-  color: #fff;
 
-}
-a {
-  color: #35193E;
-  font-weight: bold;
-  text-decoration: underline;
-  cursor: pointer; 
-  
-}
   
 .video {
   left: -200000px;  
