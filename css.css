@@ -117,6 +117,10 @@ p {
   line-height: 1.65; 
   float: left;
   bottom: 0;
+  position: absolute;
+  color: #fff;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .video {
