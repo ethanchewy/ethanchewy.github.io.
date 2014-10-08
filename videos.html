@@ -18,15 +18,18 @@
       <a href = "index.html"><img src="http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/close.png"></a>
 
     </div>
-    <iframe
-        onload="javascript:this.style.height = this.contentWindow.document.body.scrollHeight + 'px';"
-        scrolling="no"
-        height="600"
-        marginheight="0"
-        frameborder="0"
-        width="480"
-        src="http://www.youtube.com/channel/UC2l2ZMBuqFkplSNY1TlTR4g/gallery.php?vids=9&user=doitfordummies&row=3&width=150&margin_right=15&desc=100&title=30&views=1&likes=1&dislikes=1&fav=1">
-    </iframe>
+
+    <script type="text/javascript">
+     //youtube channel URL (mandatory) -----------------------------
+     var youTubeChannelURL = "http://www.youtube.com/channel/UC2l2ZMBuqFkplSNY1TlTR4g";
+      
+     //optional parameter-----------------------------------------------
+     var youTubePlaylistURL = "https://www.youtube.com/playlist?list=PL-YVivWsZSOG-eNvjElFx04GmVqslJlTI";
+     var youmaxDefaultTab = "Stamps";
+    </script>
+    
+    
+    <div id="youmax"></div>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="javascript.js"></script>
