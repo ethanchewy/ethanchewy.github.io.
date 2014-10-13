@@ -94,9 +94,9 @@
 		// Highlight the section currently scrolling DOWN
 		homeSlides.waypoint(function(direction) {
 		  if (direction === 'down') {
-		    var index = $(this).index();
-			var index = index+1;
-			$activeSlide.text(index);
+		    var Exhibit = $(this).Exhibit();
+			var Exhibit = Exhibit+1;
+			$activeSlide.text(Exhibit);
 			showHideNavItems();
 		  }
 		}, { offset: '50%' });
@@ -104,9 +104,9 @@
 		// Highlight the section currently scrolling UP
 		homeSlides.waypoint(function(direction) {
 		  if (direction === 'up') {
-			var index = $(this).index();
-			var index = index+1;
-			$activeSlide.text(index);
+			var Exhibit = $(this).Exhibit();
+			var Exhibit = Exhibit+1;
+			$activeSlide.text(Exhibit);
 			showHideNavItems();
 		  }
 		}, {
@@ -142,11 +142,11 @@
 		//Next slide
 		$slideNavNext.click(function (e) {
 		    e.preventDefault();
-		    var index = parseInt($activeSlide.text());
-		    index++;
-		    if(index <= $numberOfSlides){
+		    var Exhibit = parseInt($activeSlide.text());
+		    Exhibit++;
+		    if(Exhibit <= $numberOfSlides){
 		        
-				scrollToSlide(index);
+				scrollToSlide(Exhibit);
 		        
 		    }
 		});
@@ -154,11 +154,11 @@
 		//Prev slide
 		$slideNavPrev.click(function (e) {
 		    e.preventDefault();
-		    var index = parseInt($activeSlide.text());
-		    index--;
-		    if(index > 0){
+		    var Exhibit = parseInt($activeSlide.text());
+		    Exhibit--;
+		    if(Exhibit > 0){
 		        
-		        scrollToSlide(index);
+		        scrollToSlide(Exhibit);
 		        
 		    }
 		});
