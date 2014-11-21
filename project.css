@@ -1,11 +1,10 @@
-.uscan {
-    text-align: center;
-    /*width: 100%; */
-    vertical-align: middle;
-    height: 100%;
-    display: table-cell;
-    float: left;
-
+.box{
+    float:left;
+    margin-right:20px;
+    vertical-align: center;
+}
+.clear{
+    clear:both;
 }
 
 .iframe{
