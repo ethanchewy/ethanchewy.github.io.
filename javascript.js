@@ -104,7 +104,9 @@ var main = function() {
       
     }, 200);
   }); */
-
+  $(function() {
+    $('[data-wanker]').wanker();
+  });
 
 };
 $(document).ready(main);
