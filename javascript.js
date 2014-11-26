@@ -65,6 +65,16 @@ var main = function() {
     window.location.href = "http://instagram.com/ethanclikesrice?";
   });
   
+  $('.github').click(function() {
+    window.location.href = "http://github.com/ethanchewy";
+  });
+  
+  $('.codecademy').click(function() {
+    window.location.href = "http://www.codecademy.com/TheCoderEthan";
+  });
+  
+  
+  
   $('.vid').click(function() {
     $('.menu').animate({
       left: "0px"
