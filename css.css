@@ -123,6 +123,14 @@ p {
  
 }
 
+.github {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  float: left;
+}
+
 
   
 .video {
