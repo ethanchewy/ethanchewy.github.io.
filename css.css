@@ -131,6 +131,13 @@ p {
   float: left;
 }
 
+.codecademy {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  float: left;
+}
 
   
 .video {
