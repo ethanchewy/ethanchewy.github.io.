@@ -93,7 +93,7 @@ p {
 .icon-menu i {
   margin-right: 5px;
 }
-
+/*social media */
 /*facebook*/
 .facebook {
   cursor: pointer;
@@ -141,8 +141,31 @@ p {
 
   float: left;
 }
+/* end of social media location stuff*/
+/* hovering stuff social media */
+#facebokid:hover{
+  color: #3B5998;
+  transform:scale(1.3);
+}
 
-  
+#linkedinid:hover{
+  color: #4875B4;
+  transform:scale(1.3);
+}
+
+#instagramid:hover{
+  color: #4E433C;
+  transform:scale(1.3);
+}
+
+#githubid:hover{
+  transform:scale(1.3);
+}
+
+#codecademyid:hover{
+  transform:scale(1.3);
+}
+
 .video {
   left: -200000px;  
   height: 100%;
