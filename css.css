@@ -143,25 +143,51 @@ p {
 }
 /* end of social media location stuff*/
 /* hovering stuff social media */
-#facebokid:hover{
+#facebookid {
+  -webkit-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -moz-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -o-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+}
+#facebookid:hover{
   color: #3B5998;
   transform:scale(1.3);
 }
-
+#linkedinid {
+  -webkit-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -moz-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -o-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+}
 #linkedinid:hover{
   color: #4875B4;
   transform:scale(1.3);
 }
-
+#instagramid {
+  -webkit-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -moz-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -o-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+}
 #instagramid:hover{
   color: #4E433C;
   transform:scale(1.3);
 }
-
+#githubid {
+  -webkit-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -moz-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -o-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+}
 #githubid:hover{
   transform:scale(1.3);
 }
-
+#codecademyid {
+  -webkit-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -moz-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  -o-transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+  transition: all 1s cubic-bezier(.66,-0.48,.41,1.76);
+}
 #codecademyid:hover{
   transform:scale(1.3);
 }
