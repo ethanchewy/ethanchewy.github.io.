@@ -10,6 +10,14 @@
 .iframe{
   width: 200px;
 }
+
+body {
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  font-family: 'Open Sans', sans-serif;
+}
 /*div,
 body,
 html {
