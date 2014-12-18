@@ -1,6 +1,6 @@
 ﻿{
 	"name": "Autorunner",
-	"start_url": "/index.html",
+	"start_url": "/game.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
