@@ -4,7 +4,7 @@ body {
   margin: 0;
   overflow: hidden;
   position: relative;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 }
 
 p {
@@ -29,6 +29,11 @@ p {
   width: 285px;
 }
 
+.menutext {
+  text-align: center;
+  color: #414A46;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
 /* Basic styling */
 .photo {
   /*background: url('https://lh3.googleusercontent.com/-KRCmToL81KY/VA-9zkYMicI/AAAAAAAAAa8/E6F0wdzfTxM/w945-h709-no/Photosghub.jpg');*/
@@ -48,7 +53,7 @@ p {
 
 .menu ul {
   border-top: 1px solid #636366;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -57,7 +62,7 @@ p {
 .menu li {
   color: #fff;
   border-bottom: 1px solid #636366;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
   line-height: 45px;
   padding-bottom: 3px;
   padding-left: 20px;
@@ -67,7 +72,7 @@ p {
 
 .menu a {
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
   font-size: 15px;
   text-decoration: none;
   text-transform: uppercase;
@@ -82,7 +87,7 @@ p {
 .icon-menu {
   color: #fff;
   cursor: pointer;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
   font-size: 16px;
   padding-bottom: 25px;
   padding-left: 25px;
