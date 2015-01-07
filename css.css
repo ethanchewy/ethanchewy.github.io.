@@ -7,7 +7,7 @@ body {
   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
 }
 
-/*p {
+.menu p {
   margin-top: 0;
   margin-bottom: 10px;
   line-height: 1.65; 
@@ -16,7 +16,7 @@ body {
   position: absolute;
   color: #fff;
 
-} */
+} 
 
 
 /* Initial menu */
