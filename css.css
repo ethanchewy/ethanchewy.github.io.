@@ -30,7 +30,9 @@ p {
 }
 
 .jumbotron h1{
-  text-align: center;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
   color: #414A46;
   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
   font-size: 50px;
