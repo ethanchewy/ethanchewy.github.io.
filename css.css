@@ -29,7 +29,7 @@ p {
   width: 285px;
 }
 
-.jumbotron h1{
+.jumbotron p{
   position: absolute;
   top: 50%;
   left: 50%;
