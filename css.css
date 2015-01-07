@@ -21,7 +21,8 @@ p {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://cdn.osxdaily.com/wp-content/uploads/2011/10/NSLinenBackgroundPattern.png') repeat left top;
+  /* background: #202024 url('http://cdn.osxdaily.com/wp-content/uploads/2011/10/NSLinenBackgroundPattern.png') repeat left top; */
+  background-color: #414A46;
   left: -285px;  
   height: 100%;
   position: fixed;
