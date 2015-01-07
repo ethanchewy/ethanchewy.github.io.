@@ -29,7 +29,7 @@ p {
   width: 285px;
 }
 
-.jumbotron {
+.jumbotron h1{
   text-align: center;
   color: #414A46;
   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
