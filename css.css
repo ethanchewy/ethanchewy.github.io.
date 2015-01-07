@@ -30,9 +30,10 @@ p {
 }
 
 .jumbotron h1{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   color: #414A46;
   font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
   font-size: 50px;
@@ -46,6 +47,7 @@ p {
   top: 0px;
 }
 .jumbotron {
+  position: relative;
   background-image: url('trianglewallpaper.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
