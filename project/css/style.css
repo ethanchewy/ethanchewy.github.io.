@@ -4,7 +4,7 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 @font-face {
   font-family: 'PoetsenOne';
-  src: url('/project/css/PoetsenOne-Regular.ttf'); /* IE9 Compat Modes */
+  src: url('project/css/PoetsenOne-Regular.ttf'); /* IE9 Compat Modes */
 }
 
 body {
