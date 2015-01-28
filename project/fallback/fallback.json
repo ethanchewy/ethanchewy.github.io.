@@ -1,0 +1,242 @@
+{
+  "name": "medium_title_scrape",
+  "count": 50,
+  "frequency": "Daily",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sun Jan 25 2015 13:02:27 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sun Jan 25 2015 13:02:25 GMT+0000 (UTC)",
+  "results": {
+    "titles": [
+      {
+        "title": {
+          "href": "https://medium.com/@Publici/this-is-how-a-tax-haven-works-aa37759fc1ae",
+          "text": "This is How a Tax Haven Works"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@Brookings/can-every-student-have-an-equal-chance-at-a-great-teacher-cb4d640f841f",
+          "text": "Can Every Student Have an Equal Chance at a Great Teacher?"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/davos-2015/why-technology-actually-makes-us-more-human-70f574962d3b",
+          "text": "Why technology actually makes us more human"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/the-nib/more-dairy-based-facial-hair-styles-216bd01defb5",
+          "text": "More Dairy-Based Facial Hair Styles"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@charitywater/more-bread-for-the-baking-cff67702f525",
+          "text": "More Bread for the Baking"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@weareyourfek/how-to-protest-and-rightfully-screw-the-mta-over-the-2015-fare-hike-and-why-you-should-do-it-ac09863b6229",
+          "text": "Why and How to Protest (and Rightfully Screw) the MTA Over the 2015 Fare Hike"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/29th-street-publishing-dispatches/pretty-movies-publishing-mistakes-2014-favorites-aaa7918618fe",
+          "text": "January 20, 2015"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/davos-2015/not-knowing-the-knowable-9dc900002041",
+          "text": "Not Knowing the Knowable"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/davos-2015/built-on-trust-7fa1a3712274",
+          "text": "Built on Trust"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/backchannel/who-should-have-access-to-your-dna-6830fbf8dc79",
+          "text": "Who Should Have Access to Your DNA?"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@DuncanWeldon/syriza-vs-germany-whats-the-real-blockage-28933e9abff4",
+          "text": "Syriza vs Germany: What’s the real blockage?"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@Silk/disneyland-and-measles-five-scary-findings-about-vaccinations-in-california-ea64cab4db7f",
+          "text": "Disneyland and Measles: Five Scary Findings About Vaccinations in California"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/thelist/age-40-aint-nobody-got-time-for-that-96651b435bb4",
+          "text": "Age 40: Ain’t Nobody Got Time For That"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@caitycronkhite/a-letter-from-your-token-single-friend-df9e35df4f7e",
+          "text": "A Letter from Your Token Single Friend"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/davos-2015/why-high-speed-internet-is-a-weapon-against-ebola-8672a7625980",
+          "text": "Why High-Speed Internet is a Weapon Against Ebola"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/bull-market/draghis-force-multipliers-803c152c8c4e",
+          "text": "Draghi’s force multipliers"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@gbablon/early-this-september-just-a-month-after-shipping-the-new-foursquare-we-set-our-sights-on-a-new-85a05c6d544b",
+          "text": "Bringing Foursquare to the iPad"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/midcentury-modern/choosing-maine-e29907ce5d04",
+          "text": "Choosing Maine"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@penguinrandomus/the-tyranny-of-the-blank-page-4-writing-tips-from-andy-weir-709992be37b7",
+          "text": "The Tyranny of the Blank Page (and How to Overcome It)"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@elle_mccann/no-revolution-without-reflection-5dfa513cd43a",
+          "text": "No Revolution Without Reflection"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@vanessajupe/pandoras-personalized-pushes-a1eba408577d",
+          "text": "Pandora’s Personalized Pushes"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@peacockc/tinkerers-lament-4892277f17f5",
+          "text": "Tinkerer’s Lament"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/substance/heart-of-a-girl-bcbbda8cfe7",
+          "text": "Heart of a girl"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@cosmodynamics/the-entire-milky-way-might-be-a-huge-wormhole-thats-stable-and-navigable-b07f253b7739",
+          "text": "The Entire Milky Way Might Be a Huge Wormhole That’s Stable and Navigable"
+        }
+      },
+      {
+        "title": {
+          "href": "https://medium.com/@jeremyrubin/regulating-bitcoin-by-mining-the-regulator-miner-attack-c8fd51185b78",
+          "text": "Regulating Bitcoin by Mining: The Regulator-Miner Attack"
+        }
+      }
+    ],
+    "read_times": [
+      {
+        "time": "1 min read"
+      },
+      {
+        "time": "7 min read"
+      },
+      {
+        "time": "4 min read"
+      },
+      {
+        "time": "2 min read"
+      },
+      {
+        "time": "6 min read"
+      },
+      {
+        "time": "7 min read"
+      },
+      {
+        "time": "3 min read"
+      },
+      {
+        "time": "5 min read"
+      },
+      {
+        "time": "5 min read"
+      },
+      {
+        "time": "6 min read"
+      },
+      {
+        "time": "3 min read"
+      },
+      {
+        "time": "2 min read"
+      },
+      {
+        "time": "3 min read"
+      },
+      {
+        "time": "7 min read"
+      },
+      {
+        "time": "5 min read"
+      },
+      {
+        "time": "4 min read"
+      },
+      {
+        "time": "4 min read"
+      },
+      {
+        "time": "7 min read"
+      },
+      {
+        "time": "5 min read"
+      },
+      {
+        "time": "8 min read"
+      },
+      {
+        "time": "5 min read"
+      },
+      {
+        "time": "4 min read"
+      },
+      {
+        "time": "13 min read"
+      },
+      {
+        "time": "3 min read"
+      },
+      {
+        "time": "10 min read"
+      }
+    ]
+  }
+}

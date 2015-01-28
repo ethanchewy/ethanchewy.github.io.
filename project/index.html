@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Article Scrape</title>
+	
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css"> 
+	<script src="js/ie-emulation-modes-warning.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+
+	<div class="navbar"> 
+	</div>
+
+	<div class="jumbotron">
+		<div class="container text-center">
+	        <h1>lucyd</h1>
+
+	        <label for="time">How much time do you have?</label>
+			<input id="time_input"> minutes
+			<select name="option_picker" id="option_picker">
+				<option value="staffpick_api">Staff Picks</option>
+				<option value="culture_api">Culture</option>
+				<option value="humor_api">Humor</option>
+				<option value="tech_api">Tech</option>
+				<option value="design_api">Design</option>
+			</select>
+		</div>
+
+    </div>
+
+	<div class="container">
+		<div id="articles"></div>
+	</div>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/app.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+</body>
+
+
+</html>
