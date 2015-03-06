@@ -153,6 +153,14 @@ body {
 
   float: left;
 }
+
+.challengepostid{
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  float: left;
+}
 /* end of social media location stuff*/
 /* hovering stuff social media */
 #facebookid {
