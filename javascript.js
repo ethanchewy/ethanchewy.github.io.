@@ -73,6 +73,12 @@ var main = function() {
     window.location.href = "http://www.codecademy.com/TheCoderEthan";
   });
   
+  $('.codecademy').click(function() {
+    window.location.href = "http://www.codecademy.com/TheCoderEthan";
+  });
+   $('.challengepost').click(function() {
+    window.location.href = "http://challengepost.com/17chiue";
+  });
   
   
   $('.vid').click(function() {
